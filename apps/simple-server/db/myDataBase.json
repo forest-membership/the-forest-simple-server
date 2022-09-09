@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "userInfo": {
+                "userId": "0",
+                "nickname": "a"
+            }
+        },
+        {
+            "userInfo": {
+                "userId": "2",
+                "nickname": "c"
+            }
+        },
+        {
+            "userInfo": {
+                "userId": "korea",
+                "nickname": "Crash"
+            }
+        }
+    ]
+}
